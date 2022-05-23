@@ -1,0 +1,7 @@
+{
+  "name": "divertidamente",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
